@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+	// declaring integers x and n as positions of elephant and friend
 	int x,n;
 	int steps=0;
 	cin >> x;
